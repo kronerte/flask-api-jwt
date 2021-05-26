@@ -1,3 +1,4 @@
+https://realpython.com/token-based-authentication-with-flask/
 # Flask JWT Auth
 
 [![Build Status](https://travis-ci.org/realpython/flask-jwt-auth.svg?branch=master)](https://travis-ci.org/realpython/flask-jwt-auth)
